@@ -3,4 +3,4 @@
  Typescript
  
  * Challenge description: https://git.io/JfFje
- * Test Results on `jest_results.png`
+ * Test Results on `Jest_results.png`
